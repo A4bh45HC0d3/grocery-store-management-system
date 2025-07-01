@@ -1,0 +1,6 @@
+GROCERY STORE BILL
+Date: 2025-07-01 21:01:25
+
+Rice x 2 = Rs.240
+
+TOTAL: Rs.240
